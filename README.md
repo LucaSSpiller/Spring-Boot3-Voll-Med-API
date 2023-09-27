@@ -8,13 +8,12 @@
 
 ## Tudo isso utilizando as tecnologias:
 <p>- Spring Boot 3;</p>
-<p>- Java 17 (última versão Java LTS com maior tempo de suporte disponível de Java) e vou aprender utilizar alguns novos recursos das últimas versões do Java, pra deixar o código mais simples e mais enxuto;</p>
-<p>- Lombok (tecnologia para fazer geração de códigos repetitivos, como getter e setter, toString, construtores. Tudo via anotação para deixar o código  mmenos verboso possível;</p>
-<p>- Banco de dados: MySQL - para armazenar as informações da API / Flyway - é uma biblioteca, vai ser usada para ter o controle do histórico de evolulção do meu banco de dados, que é o conceito chamado de "Migration";</p>
-<p>- JPA / Hibernate - a camada de persistência(JPA) da aplicação, vai ser feita utilizando Hibernate como implementação, e utilizando junto dos módulos do Spring Bott para tornar mais esse processo simples possível;</p>
+<p>- Java 17;</p>
+<p>- Lombok (Anotação para geração de códigos repetitivos, como getter e setter, toString, construtores. Tudo via anotação;</p>
+<p>- Banco de dados: MySQL / Flyway -biblioteca que vai ser usada para ter o controle do histórico de evolução do meu banco de dados, conceito chamado de "Migration";</p>
+<p>- JPA / Hibernate - a camada de persistência(JPA) da aplicação, vai ser feita utilizando Hibernate como implementação, e utilizando junto dos módulos do Spring Boot para tornar mais esse processo simples possível;</p>
 <p>- Maven: Para gerencimaneto de dependencias e como ferramenta para gerar o build da aplicação;</p>
-<p>- Como o foco vai ser na API Rest(apenas no Back End), não vai ter interface gráfica, porém para teste da API utilizarei o INSOMNIA(que é uma das ferrametas para teste de api);</p>
-</p> OBS:. Simulação de requisições para a API foram feitas no Insomnia.</p>
+<p>- Como o foco vai ser na API Rest(apenas no Back End), não vai ter interface gráfica, porém para teste da API utilizarei o INSOMNIA;</p>
 
 
 
