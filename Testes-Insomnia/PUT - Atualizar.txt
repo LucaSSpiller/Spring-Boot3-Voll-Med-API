@@ -1,0 +1,9 @@
+URL:
+http://localhost:8080/medicos
+
+Exemplo de requisição
+
+{
+	"id": 1,
+	"nome": " Nome atualizado "
+}

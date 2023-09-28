@@ -1,0 +1,21 @@
+URL:
+http://localhost:8080/medicos
+
+Exemplo de requisição
+
+{
+	"nome" : " ",
+	"email" : " ",
+	"telefone": " ",
+	"crm" : " Deve conter 6 dígitos ",
+	"especialidade" : " Letras devem ser todas maiúsculas ", 
+	"endereco" : {
+		"logradouro" : " ",
+		"bairro" : " ",
+		"cep" : " ",
+		"cidade" : " ",
+		"uf" : " ",
+		"numero" : " ",
+		"complemento" : " "
+	}
+}

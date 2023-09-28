@@ -1,0 +1,6 @@
+Feita por parâmetro dinâmico na url.
+
+Exemplo de uso:
+http://localhost:8080/medicos/6
+
+Onde "6" é o id a ser exclúido(inativado - exclusão lógica)
